@@ -59,8 +59,7 @@ This Power BI dashboard provides **end-to-end analytics for Blinkit’s grocery 
 
 *(Include relevant screenshots here. Example below)*
 
-![Dashboard Overview](![Blinkit-analysis_page-0001](https://github.com/user-attachments/assets/0cfee363-4d33-4e9c-87e4-2036513d3f1e)
-)
+![Blinkit Power BI Dashboard](./Blinkit-analysis_page-0001.jpg)
 
 ---
 
@@ -69,14 +68,6 @@ This Power BI dashboard provides **end-to-end analytics for Blinkit’s grocery 
 1. Clone or download this repository.
 2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Open the `.pbix` file to begin exploring.
-
----
-
-## Credits
-
-* **Data & Analysis**: Blinkit Team / \[Your Name]
-* **Visualization**: Power BI
-* **Conversion Rate**: XE.com as of \[Date]
 
 ---
 
